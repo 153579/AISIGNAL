@@ -1,0 +1,197 @@
+td {
+	font-size: 9pt;
+	color: #222222;
+	font-family: "", "Arial", "Helvetic";
+	line-height: 140%
+}
+
+td a:link {
+	font-size: 9pt;
+	color: #222222;
+	text-decoration: none;
+	font-family: "", "Arial", "Helvetic";
+	line-height: 140%
+}
+
+td a:visited {
+	font-size: 9pt;
+	color: #222222;
+	text-decoration: none;
+	font-family: "", "Arial", "Helvetic";
+	line-height: 140%
+}
+
+td a:hover {
+	font-size: 9pt;
+	color: #5E9F7C;
+	text-decoration: underline;
+	font-family: "", "Arial", "Helvetic";
+	line-height: 140%
+}
+
+.menu01 {
+	font-size: 9pt;
+	color: #ffffff;
+	font-family: "";
+}
+
+a.menu01:link {
+	color: #ffffff;
+	font-family: "";
+	text-decoration: none
+}
+
+a.menu01:visited {
+	color: #ffffff;
+	font-family: "";
+	text-decoration: none
+}
+
+a.menu01:hover {
+	color: #ffffff;
+	font-family: "";
+	text-decoration: underline
+}
+
+.menu02 {
+	font-size: 9pt;
+	color: #606060;
+	font-family: "±¼¸²";
+	line-height: 150%
+}
+
+a.menu02:link {
+	color: #003070;
+	font-family: "±¼¸²";
+	text-decoration: none;
+	line-height: 150%
+}
+
+a.menu02:visited {
+	color: #003070;
+	font-family: "±¼¸²";
+	text-decoration: none;
+	line-height: 150%
+}
+
+a.menu02:hover {
+	color: #003070;
+	font-family: "±¼¸²";
+	text-decoration: underline;
+	line-height: 150%
+}
+
+.cf {
+	font-size: 9pt;
+	color: #4A4A4A;
+	font-family: "", "Arial", "Helvetic";
+	line-height: 120%
+}
+
+.voice {
+	font-size: 9pt;
+	color: #093672;
+	font-family: "", "Arial", "Helvetic";
+	line-height: 140%
+}
+
+.select {
+	font-size: 11px;
+	background-color: #F8F8F8;
+	color: #545454;
+	height: 20px;
+	padding-top: 4px;
+}
+
+.input {
+	BORDER-RIGHT: #939393 1px solid;
+	BORDER-TOP: #939393 1px solid;
+	FONT-SIZE: 9pt;
+	BORDER-LEFT: #939393 1px solid;
+	BORDER-BOTTOM: #939393 1px solid;
+	FONT-FAMILY: "", "Arial", "Helverica";
+	BACKGROUND-COLOR: #ffffff
+}
+
+.input1 {
+	BORDER-RIGHT: #6BB6BB 1px solid;
+	BORDER-TOP: #6BB6BB 1px solid;
+	FONT-SIZE: 9pt;
+	BORDER-LEFT: #6BB6BB 1px solid;
+	BORDER-BOTTOM: #6BB6BB 1px solid;
+	FONT-FAMILY: "±¼¸²", "Arial", "Helverica";
+	BACKGROUND-COLOR: #ffffff
+}
+
+.input2 {
+	BORDER-RIGHT: #BABABA 1px solid;
+	BORDER-TOP: #BABABA 1px solid;
+	FONT-SIZE: 9pt;
+	BORDER-LEFT: #BABABA 1px solid;
+	BORDER-BOTTOM: #BABABA 1px solid;
+	FONT-FAMILY: "", "Arial", "Helverica";
+	BACKGROUND-COLOR: #ffffff
+}
+
+TEXTAREA {
+	BORDER-RIGHT: #7f9db9 1px solid;
+	BORDER-TOP: #7f9db9 1px solid;
+	SCROLLBAR-FACE-COLOR: #bbcacc;
+	FONT-SIZE: 8pt;
+	SCROLLBAR-HIGHLIGHT-COLOR: #ffffff;
+	BORDER-LEFT: #7f9db9 1px solid;
+	SCROLLBAR-SHADOW-COLOR: #aaaabb;
+	COLOR: #464646;
+	SCROLLBAR-3DLIGHT-COLOR: #9999aa;
+	LINE-HEIGHT: 20px;
+	SCROLLBAR-ARROW-COLOR: #ffffff;
+	SCROLLBAR-TRACK-COLOR: #eeeeee;
+	BORDER-BOTTOM: #7f9db9 1px solid;
+	FONT-FAMILY: verdana,, Seoul, Gulim;
+	SCROLLBAR-DARKSHADOW-COLOR: #aaaabb
+}
+
+.sms_box {
+	BORDER-RIGHT: #f2ffe9 0px solid;
+	BORDER-TOP: #f2ffe9 0px solid;
+	SCROLLBAR-FACE-COLOR: #c5f5a5;
+	FONT-SIZE: 12px;
+	OVERFLOW: hidden;
+	BORDER-LEFT: #f2ffe9 0px solid;
+	SCROLLBAR-SHADOW-COLOR: #c5f5a5;
+	SCROLLBAR-ARROW-COLOR: #c5f5a5;
+	SCROLLBAR-TRACK-COLOR: #c5f5a5;
+	BORDER-BOTTOM: #f2ffe9 0px solid;
+	FONT-FAMILY: "u", "Arial";
+	BACKGROUND-COLOR: #f2ffe9
+}
+
+.SendList {
+	background-color: #929292;
+	font-family: "", "u";
+	font-size: 9pt;
+	color: #FFFFFF;
+	line-height: 12pt;
+	width: 156px
+}
+
+.SendLen {
+	color: #CC6633;
+	font-weight: bold
+}
+
+.chmid {
+	font-family: "", "u";
+	font-size: 12px;
+	color: #FF0000
+}
+
+scrollbar1 {
+	scrollbar-face-color: #E2E2E5;
+	scrollbar-highlight-color: #939393;
+	scrollbar-3dlight-color: #E2E2E5;
+	scrollbar-shadow-color: #939393;
+	scrollbar-darkshadow-color: #E2E2E5;
+	scrollbar-track-color: #E2E2E5;
+	scrollbar-arrow-color: #939393
+}

@@ -1,0 +1,126 @@
+td {
+	font-size: 9pt;
+	color: #353535;
+	font-family: "±¼¸²", "Arial", "Helvetic";
+	line-height: 140%
+}
+
+td a:link {
+	font-size: 9pt;
+	color: #353535;
+	text-decoration: none;
+	font-family: "±¼¸²", "Arial", "Helvetic";
+	line-height: 140%
+}
+
+td a:visited {
+	font-size: 9pt;
+	color: #353535;
+	text-decoration: none;
+	font-family: "±¼¸²", "Arial", "Helvetic";
+	line-height: 140%
+}
+
+td a:hover {
+	font-size: 9pt;
+	color: #5E9F7C;
+	text-decoration: underline;
+	font-family: "±¼¸²", "Arial", "Helvetic";
+	line-height: 140%
+}
+
+.left {
+	color: #353535;
+	font-size: 9pt;
+	font-family: "±¼¸²", "Arial", "Helvetic";
+	line-height: 180%
+}
+
+.left a   .:link {
+	color: #F98911;
+	text-decoration: none;
+	font-size: 9pt;
+	line-height: 180%
+}
+
+.left a   .:visited {
+	color: #353535;
+	text-decoration: none;
+	font-size: 9pt;
+	line-height: 180%
+}
+
+.left a   .:hover {
+	color: #F98911;
+	text-decoration: underline;
+	font-size: 9pt;
+	line-height: 180%
+}
+
+.title01 {
+	color: #737373;
+	font-size: 9pt;
+	font-family: "±¼¸²", "Arial", "Helvetic"
+}
+
+.menu {
+	color: #737373;
+	font-size: 8pt;
+	font-family: "±¼¸²", "Arial", "Helvetic"
+}
+
+a.menu:link {
+	color: #737373;
+	font-size: 8pt;
+	font-family: "±¼¸²", "Arial", "Helvetic"
+}
+
+a.menu:visited {
+	color: #737373;
+	font-size: 8pt;
+	font-family: "±¼¸²", "Arial", "Helvetic"
+}
+
+a.menu:hover {
+	color: #737373;
+	font-size: 8pt;
+	font-family: "±¼¸²", "Arial", "Helvetic"
+}
+
+.input {
+	BORDER-RIGHT: #939393 1px solid;
+	BORDER-TOP: #939393 1px solid;
+	FONT-SIZE: 9pt;
+	BORDER-LEFT: #939393 1px solid;
+	BORDER-BOTTOM: #939393 1px solid;
+	FONT-FAMILY: "±¼¸²", "Arial", "Helverica";
+	BACKGROUND-COLOR: #ffffff
+}
+
+.input2 {
+	BORDER-RIGHT: #BABABA 1px solid;
+	BORDER-TOP: #BABABA 1px solid;
+	FONT-SIZE: 9pt;
+	BORDER-LEFT: #BABABA 1px solid;
+	BORDER-BOTTOM: #BABABA 1px solid;
+	FONT-FAMILY: "±¼¸²", "Arial", "Helverica";
+	BACKGROUND-COLOR: #ffffff
+}
+
+TEXTAREA {
+	BORDER-RIGHT: #7f9db9 1px solid;
+	BORDER-TOP: #7f9db9 1px solid;
+	SCROLLBAR-FACE-COLOR: #bbcacc;
+	FONT-SIZE: 8pt;
+	SCROLLBAR-HIGHLIGHT-COLOR: #ffffff;
+	BORDER-LEFT: #7f9db9 1px solid;
+	SCROLLBAR-SHADOW-COLOR: #aaaabb;
+	COLOR: #464646;
+	SCROLLBAR-3DLIGHT-COLOR: #9999aa;
+	LINE-HEIGHT: 20px;
+	SCROLLBAR-ARROW-COLOR: #ffffff;
+	SCROLLBAR-TRACK-COLOR: #eeeeee;
+	BORDER-BOTTOM: #7f9db9 1px solid;
+	FONT-FAMILY: verdana, µ¸¿ò, Seoul, Gulim;
+	SCROLLBAR-DARKSHADOW-COLOR: #aaaabb
+}
